@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific location do you want the 'Great' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"Do you have any preference for the button's color or style?\", \"option1\": \"Standard button style\", \"option2\": \"Custom color and style\"}], \"input_token_count\": 291, \"output_token_count\": 94, \"time_taken\": \"0:00:01.680860\"}",
+        "message_id": "guest03092024042810",
+        "timestamp": "03092024042817",
+        "component_file_name": "simple_footer_component_1725337656",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a button with the text 'Great'.",
         "message_id": "guest03092024042810",
