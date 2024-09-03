@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Great'\", \"checked\": true}, {\"feature\": \"Include tooltip for the button explaining its purpose\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": false}, {\"feature\": \"Add an animation effect when the button is clicked\", \"checked\": false}, {\"feature\": \"Make button responsive for different screen sizes\", \"checked\": true}], \"input_token_count\": 245, \"output_token_count\": 97, \"time_taken\": \"0:00:01.126508\"}",
+        "message_id": "guest03092024042810",
+        "timestamp": "03092024042819",
+        "component_file_name": "simple_footer_component_1725337656",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific location do you want the 'Great' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"Do you have any preference for the button's color or style?\", \"option1\": \"Standard button style\", \"option2\": \"Custom color and style\"}], \"input_token_count\": 291, \"output_token_count\": 94, \"time_taken\": \"0:00:01.680860\"}",
         "message_id": "guest03092024042810",
